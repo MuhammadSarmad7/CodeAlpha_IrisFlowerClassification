@@ -25,5 +25,4 @@ To demonstrate a deep understanding of the data science pipeline, I went beyond 
 4. Upload the `Iris.csv` file and run all cells.
 
 ---
-**Author:** [Your Name]  
-**LinkedIn:** [Your LinkedIn Profile Link]
+**Author:** Muhammad Sarmad Sajjad  
